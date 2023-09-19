@@ -1,7 +1,7 @@
 package main
 
-import qmscli "github.com/imamkhaira/qms-integration-go/pkg/qms-cli"
+import "github.com/imamkhaira/qms-integration-go/pkg/core"
 
 func main() {
-	qmscli.Run()
+	core.Run()
 }

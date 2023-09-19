@@ -43,7 +43,10 @@ This CLI software enables the integration of China QMS Machine to our reporting 
 2. update the kiosk.ini file as above
 3. run `go mod install`
 
+To run the program once: `go run cmd/qms-cli/main.go`
+To run the build process: `go run scripts/build.go`
+
 # DISCLAIMER
 
 I wrote this program as part of my job.
-If this program is used by parties other than myself, then I declared that I am not responsible for any problems it may cause, be it bricked devices, server crash, corrupt database, nuclear war, wrath of God, or you getting fired because Boss does not get his money back. Please read the source code carefully, and make sure you understand what it does before using it! YOU are choosing to run OR make modifications to this,and if you blame me in any way for what happens to you, I will laugh at you.
+If this program is used by parties other than myself, then I am not responsible for any problems it may cause, be it bricked devices, server crash, corrupt database, nuclear war, wrath of God, or you getting fired because Boss thinks it is your fault. Please read the source code carefully, and make sure you understand what it does before using it! YOU are choosing to run OR make modifications to this, and if you blame me in any way for what happens to you, I will laugh at you.
