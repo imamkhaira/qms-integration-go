@@ -4,6 +4,30 @@ This CLI software enables the integration of China QMS Machine to our reporting 
 
 # Sekilas Info
 
+## List of Machines
+
+| Machine Serial No   | Site Name            |
+| ------------------- | -------------------- |
+| QMSK-V02-B002-N0001 | IWK Shah Alam        |
+| QMSK-V02-B002-N0002 | IWK KL Pantai        |
+| QMSK-V02-B002-N0003 | IWK KL (UTC)         |
+| QMSK-V02-B002-N0004 | IWK Hulu Langat      |
+| QMSK-V02-B002-N0005 | IWK N.Sembilan       |
+| QMSK-V02-B002-N0006 | IWK Melaka (UTC)     |
+| QMSK-V02-B002-N0007 | IWK Kluang           |
+| QMSK-V02-B002-N0008 | IWK Skudai           |
+| QMSK-V02-B002-N0009 | IWK Skudai (UTC)     |
+| QMSK-V02-B002-N0010 | IWK Pahang (UTC)     |
+| QMSK-V02-B002-N0011 | IWK Alor Setar (UTC) |
+| QMSK-V02-B002-N0012 | IWK Sg Petani        |
+| QMSK-V02-B002-N0013 | IWK Klang            |
+| QMSK-V02-B002-N0014 | IWK Seberang Prai    |
+| QMSK-V02-B002-N0015 | IWK Ipoh (UTC)       |
+| QMSK-V02-B002-N0016 | IWK Manjung          |
+| QMSK-V02-B002-N0017 | IWK Taiping          |
+| QMSK-V02-B002-N0018 | IWK Terengganu       |
+| QMSK-V02-B002-N0019 | IWK Kelantan         |
+
 ## How it Works
 
 1. This software runs as a Windows scheduled task.
